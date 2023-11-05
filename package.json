@@ -1,0 +1,12 @@
+{
+  "name": "signals-implement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signals.js",
+  "scripts": {
+    "start": "node signals.js"
+  },
+  "keywords": [],
+  "author": "Pob",
+  "license": "ISC"
+}
